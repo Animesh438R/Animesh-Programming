@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MTest",
+            "request": "launch",
+            "mainClass": "MTest",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MTest1",
+            "request": "launch",
+            "mainClass": "MTest1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MTest2",
+            "request": "launch",
+            "mainClass": "MTest2",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MTest3",
+            "request": "launch",
+            "mainClass": "MTest3",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "Test3",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Text",
+            "request": "launch",
+            "mainClass": "Text",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Text1",
+            "request": "launch",
+            "mainClass": "Text1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Text2",
+            "request": "launch",
+            "mainClass": "Text2",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Text3",
+            "request": "launch",
+            "mainClass": "Text3",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "hello_world",
+            "request": "launch",
+            "mainClass": "hello_world",
+            "projectName": "Animesh-Programming_a75e464e"
+        }
+    ]
+}
