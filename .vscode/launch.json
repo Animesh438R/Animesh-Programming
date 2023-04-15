@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MTest5",
+            "request": "launch",
+            "mainClass": "MTest5",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MTest4",
+            "request": "launch",
+            "mainClass": "MTest4",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
