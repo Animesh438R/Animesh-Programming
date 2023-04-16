@@ -16,7 +16,7 @@ public class MTest3 {
         b=scr.nextInt();
         System.out.println("Breadth of the rectangle="+b);
         MTest ob=new MTest();
-        ob.area_rectangle(5,6);
+        ob.area_rectangle(a,b);
         scr.close();
 
     }
