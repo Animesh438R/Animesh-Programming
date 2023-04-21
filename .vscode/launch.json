@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rectangle1",
+            "request": "launch",
+            "mainClass": "Rectangle1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Test4",
+            "request": "launch",
+            "mainClass": "Test4",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "MTest5",
             "request": "launch",
             "mainClass": "MTest5",
