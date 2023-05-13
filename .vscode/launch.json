@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MOTest3",
+            "request": "launch",
+            "mainClass": "MOTest3",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest2",
+            "request": "launch",
+            "mainClass": "MOTest2",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest1",
+            "request": "launch",
+            "mainClass": "MOTest1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest",
+            "request": "launch",
+            "mainClass": "MOTest",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MTest6",
+            "request": "launch",
+            "mainClass": "MTest6",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "Rectangle1",
             "request": "launch",
             "mainClass": "Rectangle1",
