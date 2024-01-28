@@ -1,4 +1,4 @@
-class MOTest5
+public class MOTest5
 {
     void area(int b,int h)
     {

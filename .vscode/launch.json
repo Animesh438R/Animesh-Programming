@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matrix2d",
+            "request": "launch",
+            "mainClass": "Matrix2d",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Matrix1",
+            "request": "launch",
+            "mainClass": "Matrix1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "BsArray1",
+            "request": "launch",
+            "mainClass": "BsArray1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "BSort",
+            "request": "launch",
+            "mainClass": "BSort",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "BsArray",
+            "request": "launch",
+            "mainClass": "BsArray",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "COTest",
+            "request": "launch",
+            "mainClass": "COTest",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "CTest1",
+            "request": "launch",
+            "mainClass": "CTest1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "CTest",
+            "request": "launch",
+            "mainClass": "CTest",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest7",
+            "request": "launch",
+            "mainClass": "MOTest7",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest6",
+            "request": "launch",
+            "mainClass": "MOTest6",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "MOTest5",
             "request": "launch",
             "mainClass": "MOTest5",
