@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MOTest5",
+            "request": "launch",
+            "mainClass": "MOTest5",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Parking",
+            "request": "launch",
+            "mainClass": "Parking",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Interest",
+            "request": "launch",
+            "mainClass": "Interest",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Pratice4",
+            "request": "launch",
+            "mainClass": "Pratice4",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Practice3",
+            "request": "launch",
+            "mainClass": "Practice3",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MAmount",
+            "request": "launch",
+            "mainClass": "MAmount",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Solving",
+            "request": "launch",
+            "mainClass": "Solving",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Nexalculator",
+            "request": "launch",
+            "mainClass": "Nexalculator",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MOTest4",
+            "request": "launch",
+            "mainClass": "MOTest4",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
+            "name": "MRectangle",
+            "request": "launch",
+            "mainClass": "MRectangle",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "MOTest3",
             "request": "launch",
             "mainClass": "MOTest3",
