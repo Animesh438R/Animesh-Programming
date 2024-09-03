@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Superspy",
+            "request": "launch",
+            "mainClass": "Superspy",
+            "projectName": "Animesh-Programming_a75e464e"
+        },
+        {
+            "type": "java",
             "name": "Matrix2d",
             "request": "launch",
             "mainClass": "Matrix2d",
